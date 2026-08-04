@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Ayazmazhar/Ayazmazhar/blob/915a04cc757f7dc38287977424aa3125a0c4c08e/1785821546641.jpg?raw=true" alt="Banner Image" width="35%" />
+  <img src="https://github.com/Ayazmazhar/Ayazmazhar/blob/915a04cc757f7dc38287977424aa3125a0c4c08e/1785821546641.jpg?raw=true" alt="Banner Image" width="100%" />
 </p>
 
 ## 🙋‍♂️ About Me
