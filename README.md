@@ -26,5 +26,5 @@ I'm a **passionate learner** and **aspiring developer** who is currently explori
 
 ## 🛠️ Languages-Frameworks-Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,react,js,html,css,tailwind,git,github,firebase&perline=6" />
+  <img src="https://skillicons.dev/icons?i=++c,js,html,css,tailwind,git,github,firebase&perline=6" />
 </p
