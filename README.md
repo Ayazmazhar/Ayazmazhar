@@ -8,12 +8,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Ayazmazhar?label=Followers&logo=github&style=for-the-badge&color=FF8C00" alt="Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=Ayazmazhar&label=Profile%20views&color=6A0DAD&style=for-the-badge" alt="Profile views"/>
-</p>
-https://github.com/Ayazmazhar/Ayazmazhar/blob/915a04cc757f7dc38287977424aa3125a0c4c08e/1785821546641.jpg
+  <img src="https://komarev.com/ghpvc/?username=Ayazmazhar&label=Profile%20views&color=6A0DAD&style=for-the-badge" al
+
 
 <p align="center">
-  <img src="https://github.com/Ayazmazhar/Ayazmazhar/blob/915a04cc757f7dc38287977424aa3125a0c4c08e/1785821546641.jpg?raw=true" alt="Banner Image" width="100%" />
+  <img src="https://github.com/Ayazmazhar/Ayazmazhar/blob/915a04cc757f7dc38287977424aa3125a0c4c08e/1785821546641.jpg?raw=true" alt="Banner Image" width="35%" />
 </p>
 
 ## 🙋‍♂️ About Me
