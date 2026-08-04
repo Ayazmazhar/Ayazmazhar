@@ -11,7 +11,10 @@
   <img src="https://komarev.com/ghpvc/?username=Ayazmazhar&label=Profile%20views&color=6A0DAD&style=for-the-badge" alt="Profile views"/>
 </p>
 
----
+<p align="center">
+  <img src="YOUR_IMAGE_URL" alt="Header Banner" width="100%" />
+</p>
+
 
 ## 🙋‍♂️ About Me
 I'm a **passionate learner** and **aspiring developer** who is currently exploring the world of tech.
