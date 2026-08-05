@@ -4,11 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&lines=Building+Apps+%26+AI+Projects" />
 </p>
 
-<!-- سینٹرڈ بینر تصویر -->
-<p align="center">
-  <img src="https://github.com/Ayazmazhar/Ayazmazhar/blob/915a04cc757f7dc38287977424aa3125a0c4c08e/1785821546641.jpg?raw=true" alt="Banner Image" width="100%" />
-</p>
-
+<!-- سینٹرڈ بینر تصویر -
 <!-- تصویر کے نیچے بیجز -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/Ayazmazhar?label=Followers&logo=github&style=for-the-badge&color=FF8C00" alt="Followers" />
@@ -18,6 +14,8 @@
 ---
 
 ## 🧑‍💻 About Me
+  <img align="right" height="100" src="https://github.com/Ayazmazhar/Ayazmazhar/blob/915a04cc757f7dc38287977424aa3125a0c4c08e/1785821546641.jpg?" />
+
 I'm a **passionate learner** and **aspiring developer** who is currently exploring the world of tech.
 
 - 🎒 **Currently Learning** - Flutter, Python, AI/ML, Web Development
